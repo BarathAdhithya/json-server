@@ -25,9 +25,17 @@
     { "id": 5, "name": "Manjakudi" },
     { "id": 6, "name": "Dayanandha Saraswati Ashram" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 }
+  "comments": 
+    "obj-1" :
+  [
+    { "id": 1, "body": "obj - 1 comment", "postId": 1 },
+    { "id": 2, "body": "obj - 11 comment", "postId": 2 },
+    { "id": 3, "body": "obj - 111 comment", "postId": 3 }
+  ],
+"obj-2" :
+  [
+    { "id": 1, "body": "some comment", "postId": 4 },
+    { "id": 2, "body": "some comment", "postId": 5 },
+    { "id": 3, "body": "some comment", "postId": 7 }
   ]
 }
